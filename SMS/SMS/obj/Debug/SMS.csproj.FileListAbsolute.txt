@@ -1,0 +1,204 @@
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\ApplicationInsights.config
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\SMS.dll.config
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\SMS.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\SMS.pdb
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\csc.exe
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\csc.exe.config
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\csc.rsp
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\csi.exe
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\csi.exe.config
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\csi.rsp
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.AppContext.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Console.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Security.Claims.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\vbc.exe
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\vbc.exe.config
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\vbc.rsp
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Antlr3.Runtime.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.Web.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Newtonsoft.Json.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Helpers.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Mvc.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Optimization.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Razor.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.WebPages.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Twilio.AspNet.Common.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Twilio.AspNet.Mvc.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Twilio.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\WebGrease.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Helpers.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Mvc.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Optimization.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.Razor.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.WebPages.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Newtonsoft.Json.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Twilio.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Antlr3.Runtime.pdb
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.AI.Web.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\obj\Debug\SMS.csprojAssemblyReference.cache
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\obj\Debug\SMS.csproj.CopyComplete
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\obj\Debug\SMS.dll
+C:\Users\ABHIJEET\Documents\Visual Studio 2017\Projects\SMS\SMS\obj\Debug\SMS.pdb
+D:\ParkALot\SMS\SMS\bin\ApplicationInsights.config
+D:\ParkALot\SMS\SMS\bin\SMS.dll.config
+D:\ParkALot\SMS\SMS\bin\SMS.dll
+D:\ParkALot\SMS\SMS\bin\SMS.pdb
+D:\ParkALot\SMS\SMS\bin\roslyn\csc.exe
+D:\ParkALot\SMS\SMS\bin\roslyn\csc.exe.config
+D:\ParkALot\SMS\SMS\bin\roslyn\csc.rsp
+D:\ParkALot\SMS\SMS\bin\roslyn\csi.exe
+D:\ParkALot\SMS\SMS\bin\roslyn\csi.exe.config
+D:\ParkALot\SMS\SMS\bin\roslyn\csi.rsp
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ParkALot\SMS\SMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.AppContext.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Collections.Immutable.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Console.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Diagnostics.Process.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.IO.Compression.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.IO.FileSystem.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.IO.Pipes.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Security.AccessControl.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Security.Claims.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Threading.Thread.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.ValueTuple.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Xml.XPath.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ParkALot\SMS\SMS\bin\roslyn\vbc.exe
+D:\ParkALot\SMS\SMS\bin\roslyn\vbc.exe.config
+D:\ParkALot\SMS\SMS\bin\roslyn\vbc.rsp
+D:\ParkALot\SMS\SMS\bin\roslyn\VBCSCompiler.exe
+D:\ParkALot\SMS\SMS\bin\roslyn\VBCSCompiler.exe.config
+D:\ParkALot\SMS\SMS\bin\Antlr3.Runtime.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.DependencyCollector.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.Web.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.WindowsServer.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.ApplicationInsights.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.IdentityModel.Logging.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.Web.Infrastructure.dll
+D:\ParkALot\SMS\SMS\bin\Newtonsoft.Json.dll
+D:\ParkALot\SMS\SMS\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ParkALot\SMS\SMS\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ParkALot\SMS\SMS\bin\System.Web.Helpers.dll
+D:\ParkALot\SMS\SMS\bin\System.Web.Mvc.dll
+D:\ParkALot\SMS\SMS\bin\System.Web.Optimization.dll
+D:\ParkALot\SMS\SMS\bin\System.Web.Razor.dll
+D:\ParkALot\SMS\SMS\bin\System.Web.WebPages.Deployment.dll
+D:\ParkALot\SMS\SMS\bin\System.Web.WebPages.dll
+D:\ParkALot\SMS\SMS\bin\System.Web.WebPages.Razor.dll
+D:\ParkALot\SMS\SMS\bin\Twilio.AspNet.Common.dll
+D:\ParkALot\SMS\SMS\bin\Twilio.AspNet.Mvc.dll
+D:\ParkALot\SMS\SMS\bin\Twilio.dll
+D:\ParkALot\SMS\SMS\bin\WebGrease.dll
+D:\ParkALot\SMS\SMS\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ParkALot\SMS\SMS\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ParkALot\SMS\SMS\bin\System.Web.Helpers.xml
+D:\ParkALot\SMS\SMS\bin\System.Web.Mvc.xml
+D:\ParkALot\SMS\SMS\bin\System.Web.Optimization.xml
+D:\ParkALot\SMS\SMS\bin\System.Web.Razor.xml
+D:\ParkALot\SMS\SMS\bin\System.Web.WebPages.xml
+D:\ParkALot\SMS\SMS\bin\System.Web.WebPages.Deployment.xml
+D:\ParkALot\SMS\SMS\bin\System.Web.WebPages.Razor.xml
+D:\ParkALot\SMS\SMS\bin\Newtonsoft.Json.xml
+D:\ParkALot\SMS\SMS\bin\Twilio.xml
+D:\ParkALot\SMS\SMS\bin\Antlr3.Runtime.pdb
+D:\ParkALot\SMS\SMS\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ParkALot\SMS\SMS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.DependencyCollector.xml
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.WindowsServer.xml
+D:\ParkALot\SMS\SMS\bin\Microsoft.AI.Web.xml
+D:\ParkALot\SMS\SMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ParkALot\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+D:\ParkALot\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+D:\ParkALot\SMS\SMS\obj\Debug\SMS.csproj.CopyComplete
+D:\ParkALot\SMS\SMS\obj\Debug\SMS.dll
+D:\ParkALot\SMS\SMS\obj\Debug\SMS.pdb
